@@ -1,18 +1,18 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <SkipLink/>
+    <SimpleForms/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import SkipLink from '@/components/SkipLink.vue'
+import SimpleForms from '@/components/SimpleForms.vue'
 
 export default {
-  name: 'About',
+  name: 'Forms',
   components: {
-    SkipLink
+    SimpleForms
   }
 }
 </script>
