@@ -4,7 +4,22 @@
   <a href="#main" class="skipLink" ref="skipLink"></a>
 
   <main tabindex="-1" id='main'>
-    <h1>Main content</h1>
+    <h1>First  content</h1>
+    <p>Tab to move to the navbar.</p>
+    
+  </main>
+  <main tabindex="-1" id='main'>       
+     <h1>Second  content</h1>
+    <p>Tab to move to the navbar.</p>
+  </main>
+
+  <main tabindex="-1" id='main'>       
+     <h1>Third   content</h1>
+    <p>Tab to move to the navbar.</p>
+  </main>
+
+<main tabindex="-1" id='main'>       
+     <h1>fourth  content</h1>
     <p>Tab to move to the navbar.</p>
   </main>
   </div>
